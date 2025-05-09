@@ -1,0 +1,32 @@
+body{
+    background-color: blueviolet;
+}
+div{
+    border-radius: 20px;
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+}
+nav{
+    background-color: white;
+    text-align: center;
+
+}
+a{
+    height: 90px;
+    width: 100px;
+    color: white;
+}
+button{
+    background-color: blueviolet;
+    border-radius: 20px;
+    margin: 9px;
+}
+.juegos{
+    height: 300px;
+    width: 500px;
+}
+.hola{
+    height: 300px;
+}
